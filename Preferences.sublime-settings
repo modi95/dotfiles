@@ -1,0 +1,14 @@
+{
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		110
+	],
+	"scroll_past_end": true,
+	"word_wrap": "true"
+}
